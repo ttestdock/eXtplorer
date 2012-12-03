@@ -1,0 +1,30 @@
+[29-Nov-2012 23:25:46] PHP Notice:  Uninitialized string offset: 0 in /home/rully/git/HDD-Monitoring/hdd_monitor/public/eXtplorer/include/functions.php on line 107
+[29-Nov-2012 23:25:46] PHP Stack trace:
+[29-Nov-2012 23:25:46] PHP   1. {main}() /home/rully/git/HDD-Monitoring/hdd_monitor/public/eXtplorer/index.php:0
+[29-Nov-2012 23:25:46] PHP   2. include() /home/rully/git/HDD-Monitoring/hdd_monitor/public/eXtplorer/index.php:46
+[29-Nov-2012 23:25:46] PHP   3. require_once() /home/rully/git/HDD-Monitoring/hdd_monitor/public/eXtplorer/admin.extplorer.php:52
+[29-Nov-2012 23:25:46] PHP   4. get_is_dir() /home/rully/git/HDD-Monitoring/hdd_monitor/public/eXtplorer/include/init.php:251
+[29-Nov-2012 23:25:46] PHP   5. get_item_info() /home/rully/git/HDD-Monitoring/hdd_monitor/public/eXtplorer/include/functions.php:138
+[29-Nov-2012 23:25:46] PHP Notice:  Uninitialized string offset: 0 in /home/rully/git/HDD-Monitoring/hdd_monitor/public/eXtplorer/include/functions.php on line 107
+[29-Nov-2012 23:25:46] PHP Stack trace:
+[29-Nov-2012 23:25:46] PHP   1. {main}() /home/rully/git/HDD-Monitoring/hdd_monitor/public/eXtplorer/index.php:0
+[29-Nov-2012 23:25:46] PHP   2. include() /home/rully/git/HDD-Monitoring/hdd_monitor/public/eXtplorer/index.php:46
+[29-Nov-2012 23:25:46] PHP   3. require_once() /home/rully/git/HDD-Monitoring/hdd_monitor/public/eXtplorer/admin.extplorer.php:52
+[29-Nov-2012 23:25:46] PHP   4. get_is_dir() /home/rully/git/HDD-Monitoring/hdd_monitor/public/eXtplorer/include/init.php:251
+[29-Nov-2012 23:25:46] PHP   5. get_item_info() /home/rully/git/HDD-Monitoring/hdd_monitor/public/eXtplorer/include/functions.php:138
+[29-Nov-2012 23:25:46] PHP Notice:  Undefined index: FTPCONNECTION in /home/rully/git/HDD-Monitoring/hdd_monitor/public/eXtplorer/admin.extplorer.php on line 199
+[29-Nov-2012 23:25:46] PHP Stack trace:
+[29-Nov-2012 23:25:46] PHP   1. {main}() /home/rully/git/HDD-Monitoring/hdd_monitor/public/eXtplorer/index.php:0
+[29-Nov-2012 23:25:46] PHP   2. include() /home/rully/git/HDD-Monitoring/hdd_monitor/public/eXtplorer/index.php:46
+[29-Nov-2012 23:25:46] PHP Fatal error:  Call to a member function disconnect() on a non-object in /home/rully/git/HDD-Monitoring/hdd_monitor/public/eXtplorer/admin.extplorer.php on line 199
+[29-Nov-2012 23:25:46] PHP Stack trace:
+[29-Nov-2012 23:25:46] PHP   1. {main}() /home/rully/git/HDD-Monitoring/hdd_monitor/public/eXtplorer/index.php:0
+[29-Nov-2012 23:25:46] PHP   2. include() /home/rully/git/HDD-Monitoring/hdd_monitor/public/eXtplorer/index.php:46
+[29-Nov-2012 23:38:57] PHP Notice:  Undefined index: FTPCONNECTION in /home/rully/git/HDD-Monitoring/hdd_monitor/public/eXtplorer/admin.extplorer.php on line 199
+[29-Nov-2012 23:38:57] PHP Stack trace:
+[29-Nov-2012 23:38:57] PHP   1. {main}() /home/rully/git/HDD-Monitoring/hdd_monitor/public/eXtplorer/index.php:0
+[29-Nov-2012 23:38:57] PHP   2. include() /home/rully/git/HDD-Monitoring/hdd_monitor/public/eXtplorer/index.php:46
+[29-Nov-2012 23:38:57] PHP Fatal error:  Call to a member function disconnect() on a non-object in /home/rully/git/HDD-Monitoring/hdd_monitor/public/eXtplorer/admin.extplorer.php on line 199
+[29-Nov-2012 23:38:57] PHP Stack trace:
+[29-Nov-2012 23:38:57] PHP   1. {main}() /home/rully/git/HDD-Monitoring/hdd_monitor/public/eXtplorer/index.php:0
+[29-Nov-2012 23:38:57] PHP   2. include() /home/rully/git/HDD-Monitoring/hdd_monitor/public/eXtplorer/index.php:46
